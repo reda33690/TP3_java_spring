@@ -24,7 +24,7 @@ This Spring Boot application is built to manage patient data efficiently, featur
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/anasbounaiim/TP3_java_spring.git
+   git clone https://github.com/reda33690/TP3_java_spring.git
    ```
 2. **Navigate into the project directory**:
    ```
